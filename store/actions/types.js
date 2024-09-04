@@ -1,0 +1,17 @@
+export const FORM_INPUT_UPDATE = "FORM_INPUT_UPDATE";
+export const INPUT_CHANGE = 'INPUT_CHANGE';
+export const INPUT_BLUR = 'INPUT_BLUR';
+export const AUTHENTICATE = 'AUTHENTICATE';
+export const LOGOUT = 'LOGOUT';
+export const INPUT_RESET = "INPUT_RESET";
+export const FORM_INPUT_CLEAR = "FORM_INPUT_CLEAR";
+export const COUNTRY = "COUNTRY";
+export const STATES = "STATES";
+export const SHOW_ALERT = "SHOW_ALERT";
+export const HIDE_ALERT = "HIDE_ALERT";
+export const SET_HOME_DATA = "SET_HOME_DATA";
+export const SET_ADOPTION_DATA = "SET_ADOPTION_DATA";
+export const SET_ONLINE_FORUM_DATA = "SET_ONLINE_FORUM_DATA";
+export const SET_EVENT_DATA = "SET_EVENT_DATA";
+export const SET_SOS_DATA = "SET_SOS_DATA";
+export const SET_COMMENT_DATA = "SET_COMMENT_DATA";
